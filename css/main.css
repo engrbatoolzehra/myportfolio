@@ -1008,8 +1008,13 @@ body.loaded {
 	margin-bottom: 10px;
 }
 
+.heroname
+{
+	font-size: 45px;
+	font-weight: 800;
+}
 .hero-title {
-	font-size: 65px;
+	font-size: 40px;
 	background: var(--tj-theme-primary);
 	background: -webkit-gradient(
 		linear,
@@ -1439,6 +1444,14 @@ body.loaded {
 }
 .portfolio-box .portfolio-item .content-box p {
 	margin-bottom: 0;
+	margin-top: 12px;
+}
+.portfolio-box .portfolio-item .content-box p span{
+	background-color: #ffffff;
+    padding: 4px 12px;
+    border-radius: 30px;
+    color: #8750f7;
+	margin-right: 2px;
 }
 .portfolio-box .portfolio-item .content-box .portfolio-link {
 	position: absolute;

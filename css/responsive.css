@@ -20,7 +20,7 @@
 
 	/* hero section */
 	.hero-title {
-		font-size: 60px;
+		font-size: 40px;
 	}
 	.hero-section .funfact-area {
 		margin-top: 70px;
@@ -69,7 +69,7 @@
 	}
 	.hero-wrrapper .hero-title,
 	.hero-title {
-		font-size: 50px;
+		font-size: 30px;
 	}
 	.hero-section .funfact-area {
 		margin-top: 60px;
@@ -260,7 +260,7 @@
 	}
 	.hero-wrrapper .hero-title,
 	.hero-title {
-		font-size: 38px;
+		font-size: 30px;
 	}
 	.hero-content-box .button-box {
 		margin-top: 30px;
@@ -581,9 +581,12 @@
 		margin-bottom: 0;
 		font-size: 22px;
 	}
+	.heroname {
+		font-size: 38px;
+	}
 	.hero-wrrapper .hero-title,
 	.hero-title {
-		font-size: 35px;
+		font-size: 30px;
 		margin-bottom: 0;
 	}
 	.hero-image-box {
