@@ -1445,13 +1445,16 @@ body.loaded {
 .portfolio-box .portfolio-item .content-box p {
 	margin-bottom: 0;
 	margin-top: 12px;
+	display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
 }
 .portfolio-box .portfolio-item .content-box p span{
 	background-color: #ffffff;
     padding: 4px 12px;
     border-radius: 30px;
     color: #8750f7;
-	margin-right: 2px;
+	font-size: 12px;
 }
 .portfolio-box .portfolio-item .content-box .portfolio-link {
 	position: absolute;
